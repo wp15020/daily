@@ -8,57 +8,42 @@
 	"buffers":
 	[
 		{
-			"contents": "# web製作者の為のsablime textの教科書\n\n## 第１章　sublime textを導入しよう\n\n### 1-1  sublime text とは\n\n- sublime textのここがすごい\n- バージョン２と３の違い\n\n### 1-2 sublime textのダウンロードとインストール\n\n- sublime textをダウンロードする[ダウンロードはここから](https://www.sublimetext.com/3)\n- sublime textのインストールは簡単\n- ライセンスを購入する [ライセンスの購入はここから](https://www.sublimetext.com/buy)\n- 最新版７へのアップデートは自動で行われる",
-			"file": "/C/Users/崎原 純/Desktop/test.md",
-			"file_size": 0,
-			"file_write_time": 130857167980066847,
+			"contents": "# 振り返り\n\n\n\n## 09/04 \n\n### keep(今後も続けること)\n\n- 毎日の振り返りを書く\n\n### probem(問題なので、やめること)\n\n- なかなかHTMLが覚えられない\n\n### Try(今後、試してみたいこと)\n\n- HTMLの基本構造から理解するようにする\n\n\n---\n## 09/00 \n\n### keep(今後も続けること)\n\n- 毎日の振り返りを書く\n\n### probem(問題なので、やめること)\n\n- なかなかHTMLが覚えられない\n\n### Try(今後、試してみたいこと)\n\n- HTMLの基本構造から理解するようにする\n\n\n---",
+			"file": "furikaeri.m",
+			"file_size": 600,
+			"file_write_time": 130858164843082759,
 			"settings":
 			{
-				"buffer_size": 332,
+				"buffer_size": 289,
+				"line_ending": "Windows",
+				"name": "# 振り返り"
+			}
+		},
+		{
+			"file": "furikaeri.md",
+			"settings":
+			{
+				"buffer_size": 223,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "",
-			"file": "/C/Users/崎原 純/Desktop/001.html",
-			"file_size": 0,
-			"file_write_time": 130857284121746283,
+			"contents": "\n",
+			"file": "/C/Users/崎原 純/Documents/html.basic/README.md",
+			"file_size": 14,
+			"file_write_time": 130858198485410021,
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/崎原 純/Documents/tutoriaru/sample.md",
+			"file": "daily.sublime-project",
 			"settings":
 			{
-				"buffer_size": 90,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/崎原 純/Documents/tutorial2/sample.md",
-			"settings":
-			{
-				"buffer_size": 63,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/崎原 純/Documents/tutoriaru/README.md",
-			"settings":
-			{
-				"buffer_size": 11,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/崎原 純/Documents/first/furikaeri.md",
-			"settings":
-			{
-				"buffer_size": 455,
-				"line_ending": "Windows"
+				"buffer_size": 45,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -70,9 +55,13 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "pa",
+		"last_filter": "ma",
 		"selected_items":
 		[
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
 			[
 				"pa",
 				"Package Control: List Packages"
@@ -151,6 +140,13 @@
 	],
 	"file_history":
 	[
+		"/C/Users/崎原 純/Documents/daily/README.md",
+		"/C/Users/崎原 純/Desktop/test.md",
+		"/C/Users/崎原 純/Desktop/001.html",
+		"/C/Users/崎原 純/Documents/tutoriaru/sample.md",
+		"/C/Users/崎原 純/Documents/tutorial2/sample.md",
+		"/C/Users/崎原 純/Documents/tutoriaru/README.md",
+		"/C/Users/崎原 純/Documents/first/furikaeri.md",
 		"/C/Users/崎原 純/Documents/first/yotei.md",
 		"/C/Users/崎原 純/Documents/first/README.md",
 		"/C/Users/崎原 純/Documents/tutoriaru/naiyou.md",
@@ -193,29 +189,30 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/崎原 純/Desktop/test.md",
+					"file": "furikaeri.m",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 332,
+						"buffer_size": 289,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								28,
-								28
+								8,
+								8
 							]
 						],
 						"settings":
 						{
 							"BracketHighlighterBusy": false,
+							"auto_name": "# 振り返り",
 							"bh_regions":
 							[
 								"bh_curly",
@@ -275,23 +272,111 @@
 								"bh_double_quote_content"
 							],
 							"parser": "github",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"target": "save"
+							"syntax": "Packages/Objective-C/Objective-C++.tmLanguage",
+							"target": "browser"
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/崎原 純/Desktop/001.html",
+					"file": "furikaeri.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/崎原 純/Documents/html.basic/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
 						"regions":
 						{
 						},
@@ -300,269 +385,6 @@
 							[
 								0,
 								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/崎原 純/Documents/tutoriaru/sample.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 90,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/崎原 純/Documents/tutorial2/sample.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 63,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								63,
-								63
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/崎原 純/Documents/tutoriaru/README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11,
-								11
 							]
 						],
 						"settings":
@@ -633,16 +455,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "/C/Users/崎原 純/Documents/first/furikaeri.md",
-					"semi_transient": false,
+					"buffer": 3,
+					"file": "daily.sublime-project",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 455,
+						"buffer_size": 45,
 						"regions":
 						{
 						},
@@ -714,14 +536,14 @@
 								"bh_double_quote_close",
 								"bh_double_quote_content"
 							],
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
